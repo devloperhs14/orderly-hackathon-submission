@@ -47,9 +47,9 @@ To run this project, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/devloperhs14/orderly-hackathon.git
+git clone [https://github.com/devloperhs14/orderly-hackathon.git](https://github.com/devloperhs14/orderly-hackathon-submission.git)
 
-cd orderly-hackathon
+cd orderly-hackathon-submission
 ```
 
 ### 2. Install Dependencies
