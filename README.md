@@ -68,9 +68,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgements
 The emp_orderly library and its contributors.
-
 The Orderly Hackathon organizers and participants.
-
-For more information, visit the repository.
+Stackup Mods
 
 
